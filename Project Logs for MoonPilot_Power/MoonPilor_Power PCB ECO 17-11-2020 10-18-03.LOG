@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=J5_Nets Member=+3.3V
+Added Pin To Net: NetName=+5V Pin=J5-1
+Added Pin To Net: NetName=+5V Pin=J5-2

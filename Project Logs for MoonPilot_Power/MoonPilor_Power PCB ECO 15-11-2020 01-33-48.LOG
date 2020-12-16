@@ -1,0 +1,651 @@
+Added Component: Designator=C1(1206_CAP)
+Added Component: Designator=C2(1206_CAP)
+Added Component: Designator=C3(1206_CAP)
+Added Component: Designator=C4(1206_CAP)
+Added Component: Designator=C5(0805_cap)
+Added Component: Designator=C6(1206_CAP)
+Added Component: Designator=C7(1206_CAP)
+Added Component: Designator=C8(1206_CAP)
+Added Component: Designator=C9(1206_CAP)
+Added Component: Designator=C10(1206_CAP)
+Added Component: Designator=C11(1206_CAP)
+Added Component: Designator=C12(1206_CAP)
+Added Component: Designator=C13(1206_CAP)
+Added Component: Designator=C14(1206_CAP)
+Added Component: Designator=C15(1206_CAP)
+Added Component: Designator=C16(0805_cap)
+Added Component: Designator=C17(1206_CAP)
+Added Component: Designator=C18(0603_CAP)
+Added Component: Designator=C19(0603_CAP)
+Added Component: Designator=D1(SOD-123)
+Added Component: Designator=D2_HI_CURRENT_1(SOD-123)
+Added Component: Designator=D2_HI_CURRENT_2(SOD-123)
+Added Component: Designator=D2_HI_CURRENT_3(SOD-123)
+Added Component: Designator=D2_HI_CURRENT_4(SOD-123)
+Added Component: Designator=J1(HEADER-3-POS_100_mil)
+Added Component: Designator=J2(HEADER-3-POS_100_mil)
+Added Component: Designator=J3(HEADER-3-POS_100_mil)
+Added Component: Designator=J4(HEADER-3-POS_100_mil)
+Added Component: Designator=J5(5-104652-2)
+Added Component: Designator=J6(HEADER-3-POS_100_mil)
+Added Component: Designator=J7(HEADER-3-POS_100_mil)
+Added Component: Designator=J8(HEADER-3-POS_100_mil)
+Added Component: Designator=J9(5-104652-2)
+Added Component: Designator=J10(HEADER-3-POS_100_mil)
+Added Component: Designator=J11(XT-60)
+Added Component: Designator=J12(XT-60)
+Added Component: Designator=J13(3-794630-8)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3-794630-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Tyco_2012-04-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Component: Designator=J14(HEADER-3-POS_100_mil)
+Added Component: Designator=J15(3-794630-6)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3-794630-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Tyco_2012-04-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Component: Designator=J16(3-794630-4)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3-794630-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PITCH(MM)"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "POSITIONS"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRODUCT"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROWS/CONFIG"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "TE_Connectivity-2018-03-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_Part_Number"; Value = "3-794630-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Component: Designator=J17(3-794630-4)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3-794630-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PITCH(MM)"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "POSITIONS"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRODUCT"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROWS/CONFIG"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "TE_Connectivity-2018-03-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_Part_Number"; Value = "3-794630-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Component: Designator=J18(3-794630-4)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3-794630-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PITCH(MM)"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "POSITIONS"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRODUCT"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROWS/CONFIG"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "TE_Connectivity-2018-03-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_Part_Number"; Value = "3-794630-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Component: Designator=J19_HI_CURRENT_1(3-794630-2)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3-794630-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Tyco_2012-04-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Component: Designator=J19_HI_CURRENT_2(3-794630-2)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3-794630-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Tyco_2012-04-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Component: Designator=J19_HI_CURRENT_3(3-794630-2)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3-794630-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Tyco_2012-04-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Component: Designator=J19_HI_CURRENT_4(3-794630-2)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3-794630-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Tyco_2012-04-26"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Component: Designator=L1(FPV1006-150-R)
+Added Component: Designator=M1(M4_SCREW)
+Added Component: Designator=M2(M4_SCREW)
+Added Component: Designator=M3(M4_SCREW)
+Added Component: Designator=M4(M4_SCREW)
+Added Component: Designator=Q1_HI_CURRENT_1(INTR-SOT-23-3_V)
+Add component (AddParameter): Name = "Channel Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/6383/irlml2502pbf-6383216.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-Source On Resistance-Max"; Value = "0.045O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-to-Source Voltage [Vdss]"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://internationalrectifier.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Small Outline Transistor, Body 2.92 x 1.3 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qg Gate Charge"; Value = "8nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power Dissipation"; Value = "1.25W"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_HI_CURRENT_2(INTR-SOT-23-3_V)
+Add component (AddParameter): Name = "Channel Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/6383/irlml2502pbf-6383216.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-Source On Resistance-Max"; Value = "0.045O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-to-Source Voltage [Vdss]"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://internationalrectifier.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Small Outline Transistor, Body 2.92 x 1.3 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qg Gate Charge"; Value = "8nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power Dissipation"; Value = "1.25W"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_HI_CURRENT_3(INTR-SOT-23-3_V)
+Add component (AddParameter): Name = "Channel Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/6383/irlml2502pbf-6383216.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-Source On Resistance-Max"; Value = "0.045O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-to-Source Voltage [Vdss]"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://internationalrectifier.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Small Outline Transistor, Body 2.92 x 1.3 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qg Gate Charge"; Value = "8nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power Dissipation"; Value = "1.25W"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_HI_CURRENT_4(INTR-SOT-23-3_V)
+Add component (AddParameter): Name = "Channel Type"; Value = "N-Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/6383/irlml2502pbf-6383216.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Apr-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-Source On Resistance-Max"; Value = "0.045O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain-to-Source Voltage [Vdss]"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://internationalrectifier.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Small Outline Transistor, Body 2.92 x 1.3 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Qg Gate Charge"; Value = "8nC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power Dissipation"; Value = "1.25W"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0805_RES)
+Added Component: Designator=R2(0805_RES)
+Added Component: Designator=R3_HI_CURRENT_1(0603_RES)
+Added Component: Designator=R3_HI_CURRENT_2(0603_RES)
+Added Component: Designator=R3_HI_CURRENT_3(0603_RES)
+Added Component: Designator=R3_HI_CURRENT_4(0603_RES)
+Added Component: Designator=R4_HI_CURRENT_1(0603_RES)
+Added Component: Designator=R4_HI_CURRENT_2(0603_RES)
+Added Component: Designator=R4_HI_CURRENT_3(0603_RES)
+Added Component: Designator=R4_HI_CURRENT_4(0603_RES)
+Added Component: Designator=U1(PI34xx-00)
+Added Component: Designator=U2(SOT-25_TOR)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XC6222B331MR-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Torex_2016-07-11_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Torex Semiconductor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=C19-1
+Added Pin To Net: NetName=+3.3V Pin=J5-1
+Added Pin To Net: NetName=+3.3V Pin=J5-2
+Added Pin To Net: NetName=+3.3V Pin=U2-5
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=+5V Pin=C1-2
+Added Pin To Net: NetName=+5V Pin=C2-2
+Added Pin To Net: NetName=+5V Pin=C3-2
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=+5V Pin=C12-1
+Added Pin To Net: NetName=+5V Pin=C13-1
+Added Pin To Net: NetName=+5V Pin=C14-1
+Added Pin To Net: NetName=+5V Pin=C15-1
+Added Pin To Net: NetName=+5V Pin=C16-1
+Added Pin To Net: NetName=+5V Pin=C17-1
+Added Pin To Net: NetName=+5V Pin=C18-1
+Added Pin To Net: NetName=+5V Pin=D1-1
+Added Pin To Net: NetName=+5V Pin=J1-2
+Added Pin To Net: NetName=+5V Pin=J2-2
+Added Pin To Net: NetName=+5V Pin=J3-2
+Added Pin To Net: NetName=+5V Pin=J4-2
+Added Pin To Net: NetName=+5V Pin=J5-3
+Added Pin To Net: NetName=+5V Pin=J5-4
+Added Pin To Net: NetName=+5V Pin=J6-2
+Added Pin To Net: NetName=+5V Pin=J7-2
+Added Pin To Net: NetName=+5V Pin=J8-2
+Added Pin To Net: NetName=+5V Pin=J10-2
+Added Pin To Net: NetName=+5V Pin=J13-7
+Added Pin To Net: NetName=+5V Pin=J15-5
+Added Pin To Net: NetName=+5V Pin=J16-3
+Added Pin To Net: NetName=+5V Pin=J17-3
+Added Pin To Net: NetName=+5V Pin=J18-3
+Added Pin To Net: NetName=+5V Pin=J19_HI_CURRENT_1-1
+Added Pin To Net: NetName=+5V Pin=J19_HI_CURRENT_2-1
+Added Pin To Net: NetName=+5V Pin=J19_HI_CURRENT_3-1
+Added Pin To Net: NetName=+5V Pin=J19_HI_CURRENT_4-1
+Added Pin To Net: NetName=+5V Pin=L1-2
+Added Pin To Net: NetName=+5V Pin=U1-REM
+Added Pin To Net: NetName=+5V Pin=U1-VOUT
+Added Pin To Net: NetName=+5V Pin=U1-VOUT
+Added Pin To Net: NetName=+5V Pin=U1-VOUT
+Added Pin To Net: NetName=+5V Pin=U1-VOUT
+Added Pin To Net: NetName=+5V Pin=U1-VOUT
+Added Pin To Net: NetName=+5V Pin=U1-VOUT
+Added Pin To Net: NetName=+5V Pin=U1-VOUT
+Added Pin To Net: NetName=+5V Pin=U1-VOUT
+Added Pin To Net: NetName=+5V Pin=U2-1
+Added Pin To Net: NetName=+5V Pin=U2-3
+Added Net: Name=+5V
+Added Pin To Net: NetName=BAT_SENS Pin=J5-5
+Added Pin To Net: NetName=BAT_SENS Pin=R1-2
+Added Pin To Net: NetName=BAT_SENS Pin=R2-1
+Added Net: Name=BAT_SENS
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=D2_HI_CURRENT_1-2
+Added Pin To Net: NetName=GND Pin=D2_HI_CURRENT_2-2
+Added Pin To Net: NetName=GND Pin=D2_HI_CURRENT_3-2
+Added Pin To Net: NetName=GND Pin=D2_HI_CURRENT_4-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J5-11
+Added Pin To Net: NetName=GND Pin=J5-12
+Added Pin To Net: NetName=GND Pin=J5-13
+Added Pin To Net: NetName=GND Pin=J5-14
+Added Pin To Net: NetName=GND Pin=J5-15
+Added Pin To Net: NetName=GND Pin=J5-16
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=GND Pin=J12-2
+Added Pin To Net: NetName=GND Pin=J13-8
+Added Pin To Net: NetName=GND Pin=J14-3
+Added Pin To Net: NetName=GND Pin=J15-6
+Added Pin To Net: NetName=GND Pin=J16-4
+Added Pin To Net: NetName=GND Pin=J17-4
+Added Pin To Net: NetName=GND Pin=J18-4
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=GND Pin=M4-1
+Added Pin To Net: NetName=GND Pin=Q1_HI_CURRENT_1-2
+Added Pin To Net: NetName=GND Pin=Q1_HI_CURRENT_2-2
+Added Pin To Net: NetName=GND Pin=Q1_HI_CURRENT_3-2
+Added Pin To Net: NetName=GND Pin=Q1_HI_CURRENT_4-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R4_HI_CURRENT_1-2
+Added Pin To Net: NetName=GND Pin=R4_HI_CURRENT_2-2
+Added Pin To Net: NetName=GND Pin=R4_HI_CURRENT_3-2
+Added Pin To Net: NetName=GND Pin=R4_HI_CURRENT_4-2
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-PGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SGND
+Added Pin To Net: NetName=GND Pin=U1-SYNCI
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=GPIO_1 Pin=J9-17
+Added Pin To Net: NetName=GPIO_1 Pin=J15-1
+Added Net: Name=GPIO_1
+Added Pin To Net: NetName=GPIO_2 Pin=J9-18
+Added Pin To Net: NetName=GPIO_2 Pin=J15-2
+Added Net: Name=GPIO_2
+Added Pin To Net: NetName=GPIO_3 Pin=J9-19
+Added Pin To Net: NetName=GPIO_3 Pin=J15-3
+Added Net: Name=GPIO_3
+Added Pin To Net: NetName=GPIO_4 Pin=J9-20
+Added Pin To Net: NetName=GPIO_4 Pin=J15-4
+Added Net: Name=GPIO_4
+Added Pin To Net: NetName=HI_CURRENT_1 Pin=J5-17
+Added Pin To Net: NetName=HI_CURRENT_1 Pin=R3_HI_CURRENT_1-1
+Added Net: Name=HI_CURRENT_1
+Added Pin To Net: NetName=HI_CURRENT_2 Pin=J5-18
+Added Pin To Net: NetName=HI_CURRENT_2 Pin=R3_HI_CURRENT_2-1
+Added Net: Name=HI_CURRENT_2
+Added Pin To Net: NetName=HI_CURRENT_3 Pin=J5-19
+Added Pin To Net: NetName=HI_CURRENT_3 Pin=R3_HI_CURRENT_3-1
+Added Net: Name=HI_CURRENT_3
+Added Pin To Net: NetName=HI_CURRENT_4 Pin=J5-20
+Added Pin To Net: NetName=HI_CURRENT_4 Pin=R3_HI_CURRENT_4-1
+Added Net: Name=HI_CURRENT_4
+Added Pin To Net: NetName=I2C_EXT_SCL Pin=J9-9
+Added Pin To Net: NetName=I2C_EXT_SCL Pin=J18-1
+Added Net: Name=I2C_EXT_SCL
+Added Pin To Net: NetName=I2C_EXT_SDA Pin=J9-10
+Added Pin To Net: NetName=I2C_EXT_SDA Pin=J18-2
+Added Net: Name=I2C_EXT_SDA
+Added Pin To Net: NetName=I2C_SENS_SCL Pin=J5-7
+Added Pin To Net: NetName=I2C_SENS_SCL Pin=J17-1
+Added Net: Name=I2C_SENS_SCL
+Added Pin To Net: NetName=I2C_SENS_SDA Pin=J5-8
+Added Pin To Net: NetName=I2C_SENS_SDA Pin=J17-2
+Added Net: Name=I2C_SENS_SDA
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=J14-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_HI_CURRENT_1_1 Pin=D2_HI_CURRENT_1-1
+Added Pin To Net: NetName=NetD2_HI_CURRENT_1_1 Pin=Q1_HI_CURRENT_1-1
+Added Pin To Net: NetName=NetD2_HI_CURRENT_1_1 Pin=R3_HI_CURRENT_1-2
+Added Pin To Net: NetName=NetD2_HI_CURRENT_1_1 Pin=R4_HI_CURRENT_1-1
+Added Net: Name=NetD2_HI_CURRENT_1_1
+Added Pin To Net: NetName=NetD2_HI_CURRENT_2_1 Pin=D2_HI_CURRENT_2-1
+Added Pin To Net: NetName=NetD2_HI_CURRENT_2_1 Pin=Q1_HI_CURRENT_2-1
+Added Pin To Net: NetName=NetD2_HI_CURRENT_2_1 Pin=R3_HI_CURRENT_2-2
+Added Pin To Net: NetName=NetD2_HI_CURRENT_2_1 Pin=R4_HI_CURRENT_2-1
+Added Net: Name=NetD2_HI_CURRENT_2_1
+Added Pin To Net: NetName=NetD2_HI_CURRENT_3_1 Pin=D2_HI_CURRENT_3-1
+Added Pin To Net: NetName=NetD2_HI_CURRENT_3_1 Pin=Q1_HI_CURRENT_3-1
+Added Pin To Net: NetName=NetD2_HI_CURRENT_3_1 Pin=R3_HI_CURRENT_3-2
+Added Pin To Net: NetName=NetD2_HI_CURRENT_3_1 Pin=R4_HI_CURRENT_3-1
+Added Net: Name=NetD2_HI_CURRENT_3_1
+Added Pin To Net: NetName=NetD2_HI_CURRENT_4_1 Pin=D2_HI_CURRENT_4-1
+Added Pin To Net: NetName=NetD2_HI_CURRENT_4_1 Pin=Q1_HI_CURRENT_4-1
+Added Pin To Net: NetName=NetD2_HI_CURRENT_4_1 Pin=R3_HI_CURRENT_4-2
+Added Pin To Net: NetName=NetD2_HI_CURRENT_4_1 Pin=R4_HI_CURRENT_4-1
+Added Net: Name=NetD2_HI_CURRENT_4_1
+Added Pin To Net: NetName=NetJ19_HI_CURRENT_1_2 Pin=J19_HI_CURRENT_1-2
+Added Pin To Net: NetName=NetJ19_HI_CURRENT_1_2 Pin=Q1_HI_CURRENT_1-3
+Added Net: Name=NetJ19_HI_CURRENT_1_2
+Added Pin To Net: NetName=NetJ19_HI_CURRENT_2_2 Pin=J19_HI_CURRENT_2-2
+Added Pin To Net: NetName=NetJ19_HI_CURRENT_2_2 Pin=Q1_HI_CURRENT_2-3
+Added Net: Name=NetJ19_HI_CURRENT_2_2
+Added Pin To Net: NetName=NetJ19_HI_CURRENT_3_2 Pin=J19_HI_CURRENT_3-2
+Added Pin To Net: NetName=NetJ19_HI_CURRENT_3_2 Pin=Q1_HI_CURRENT_3-3
+Added Net: Name=NetJ19_HI_CURRENT_3_2
+Added Pin To Net: NetName=NetJ19_HI_CURRENT_4_2 Pin=J19_HI_CURRENT_4-2
+Added Pin To Net: NetName=NetJ19_HI_CURRENT_4_2 Pin=Q1_HI_CURRENT_4-3
+Added Net: Name=NetJ19_HI_CURRENT_4_2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Pin To Net: NetName=NetL1_1 Pin=U1-VS1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=PWM_1 Pin=J1-1
+Added Pin To Net: NetName=PWM_1 Pin=J9-8
+Added Net: Name=PWM_1
+Added Pin To Net: NetName=PWM_2 Pin=J2-1
+Added Pin To Net: NetName=PWM_2 Pin=J9-7
+Added Net: Name=PWM_2
+Added Pin To Net: NetName=PWM_3 Pin=J3-1
+Added Pin To Net: NetName=PWM_3 Pin=J9-6
+Added Net: Name=PWM_3
+Added Pin To Net: NetName=PWM_4 Pin=J4-1
+Added Pin To Net: NetName=PWM_4 Pin=J9-5
+Added Net: Name=PWM_4
+Added Pin To Net: NetName=PWM_5 Pin=J6-1
+Added Pin To Net: NetName=PWM_5 Pin=J9-4
+Added Net: Name=PWM_5
+Added Pin To Net: NetName=PWM_6 Pin=J7-1
+Added Pin To Net: NetName=PWM_6 Pin=J9-3
+Added Net: Name=PWM_6
+Added Pin To Net: NetName=PWM_7 Pin=J8-1
+Added Pin To Net: NetName=PWM_7 Pin=J9-2
+Added Net: Name=PWM_7
+Added Pin To Net: NetName=PWM_8 Pin=J9-1
+Added Pin To Net: NetName=PWM_8 Pin=J10-1
+Added Net: Name=PWM_8
+Added Pin To Net: NetName=RC_RECEIVER Pin=J5-6
+Added Pin To Net: NetName=RC_RECEIVER Pin=J14-1
+Added Net: Name=RC_RECEIVER
+Added Pin To Net: NetName=SPI_EXT_CS1 Pin=J9-11
+Added Pin To Net: NetName=SPI_EXT_CS1 Pin=J13-1
+Added Net: Name=SPI_EXT_CS1
+Added Pin To Net: NetName=SPI_EXT_CS2 Pin=J9-12
+Added Pin To Net: NetName=SPI_EXT_CS2 Pin=J13-2
+Added Net: Name=SPI_EXT_CS2
+Added Pin To Net: NetName=SPI_EXT_CS3 Pin=J9-13
+Added Pin To Net: NetName=SPI_EXT_CS3 Pin=J13-3
+Added Net: Name=SPI_EXT_CS3
+Added Pin To Net: NetName=SPI_EXT_MISO Pin=J9-15
+Added Pin To Net: NetName=SPI_EXT_MISO Pin=J13-5
+Added Net: Name=SPI_EXT_MISO
+Added Pin To Net: NetName=SPI_EXT_MOSI Pin=J9-14
+Added Pin To Net: NetName=SPI_EXT_MOSI Pin=J13-4
+Added Net: Name=SPI_EXT_MOSI
+Added Pin To Net: NetName=SPI_EXT_SCK Pin=J9-16
+Added Pin To Net: NetName=SPI_EXT_SCK Pin=J13-6
+Added Net: Name=SPI_EXT_SCK
+Added Pin To Net: NetName=UART_SENS_RX Pin=J5-9
+Added Pin To Net: NetName=UART_SENS_RX Pin=J16-1
+Added Net: Name=UART_SENS_RX
+Added Pin To Net: NetName=UART_SENS_TX Pin=J5-10
+Added Pin To Net: NetName=UART_SENS_TX Pin=J16-2
+Added Net: Name=UART_SENS_TX
+Added Pin To Net: NetName=Vbat Pin=C6-1
+Added Pin To Net: NetName=Vbat Pin=C7-1
+Added Pin To Net: NetName=Vbat Pin=C8-1
+Added Pin To Net: NetName=Vbat Pin=C9-1
+Added Pin To Net: NetName=Vbat Pin=C10-1
+Added Pin To Net: NetName=Vbat Pin=C11-1
+Added Pin To Net: NetName=Vbat Pin=J11-1
+Added Pin To Net: NetName=Vbat Pin=J12-1
+Added Pin To Net: NetName=Vbat Pin=R1-1
+Added Pin To Net: NetName=Vbat Pin=U1-VIN
+Added Pin To Net: NetName=Vbat Pin=U1-VIN
+Added Pin To Net: NetName=Vbat Pin=U1-VIN
+Added Pin To Net: NetName=Vbat Pin=U1-VIN
+Added Pin To Net: NetName=Vbat Pin=U1-VIN
+Added Pin To Net: NetName=Vbat Pin=U1-VIN
+Added Pin To Net: NetName=Vbat Pin=U1-VIN
+Added Pin To Net: NetName=Vbat Pin=U1-VIN
+Added Pin To Net: NetName=Vbat Pin=U1-VIN
+Added Pin To Net: NetName=Vbat Pin=U1-VIN
+Added Pin To Net: NetName=Vbat Pin=U1-VIN
+Added Pin To Net: NetName=Vbat Pin=U1-VIN
+Added Net: Name=Vbat
+Added Class: Name=HI_CURRENT_1
+Added Class: Name=HI_CURRENT_2
+Added Class: Name=HI_CURRENT_3
+Added Class: Name=HI_CURRENT_4
+Added Class: Name=Main
+Added Class: Name=C1_Nets
+Added Class: Name=C2_Nets
+Added Class: Name=C3_Nets
+Added Class: Name=C4_Nets
+Added Class: Name=C5_Nets
+Added Class: Name=C6_Nets
+Added Class: Name=C7_Nets
+Added Class: Name=C8_Nets
+Added Class: Name=C9_Nets
+Added Class: Name=C10_Nets
+Added Class: Name=C11_Nets
+Added Class: Name=C12_Nets
+Added Class: Name=C13_Nets
+Added Class: Name=C14_Nets
+Added Class: Name=C15_Nets
+Added Class: Name=C16_Nets
+Added Class: Name=C17_Nets
+Added Class: Name=C18_Nets
+Added Class: Name=C19_Nets
+Added Class: Name=D1_Nets
+Added Class: Name=D2_HI_CURRENT_1_Nets
+Added Class: Name=D2_HI_CURRENT_2_Nets
+Added Class: Name=D2_HI_CURRENT_3_Nets
+Added Class: Name=D2_HI_CURRENT_4_Nets
+Added Class: Name=J1_Nets
+Added Class: Name=J2_Nets
+Added Class: Name=J3_Nets
+Added Class: Name=J4_Nets
+Added Class: Name=J5_Nets
+Added Class: Name=J6_Nets
+Added Class: Name=J7_Nets
+Added Class: Name=J8_Nets
+Added Class: Name=J9_Nets
+Added Class: Name=J10_Nets
+Added Class: Name=J11_Nets
+Added Class: Name=J12_Nets
+Added Class: Name=J13_Nets
+Added Class: Name=J14_Nets
+Added Class: Name=J15_Nets
+Added Class: Name=J16_Nets
+Added Class: Name=J17_Nets
+Added Class: Name=J18_Nets
+Added Class: Name=J19_HI_CURRENT_1_Nets
+Added Class: Name=J19_HI_CURRENT_2_Nets
+Added Class: Name=J19_HI_CURRENT_3_Nets
+Added Class: Name=J19_HI_CURRENT_4_Nets
+Added Class: Name=L1_Nets
+Added Class: Name=M1_Nets
+Added Class: Name=M2_Nets
+Added Class: Name=M3_Nets
+Added Class: Name=M4_Nets
+Added Class: Name=Q1_HI_CURRENT_1_Nets
+Added Class: Name=Q1_HI_CURRENT_2_Nets
+Added Class: Name=Q1_HI_CURRENT_3_Nets
+Added Class: Name=Q1_HI_CURRENT_4_Nets
+Added Class: Name=R1_Nets
+Added Class: Name=R2_Nets
+Added Class: Name=R3_HI_CURRENT_1_Nets
+Added Class: Name=R3_HI_CURRENT_2_Nets
+Added Class: Name=R3_HI_CURRENT_3_Nets
+Added Class: Name=R3_HI_CURRENT_4_Nets
+Added Class: Name=R4_HI_CURRENT_1_Nets
+Added Class: Name=R4_HI_CURRENT_2_Nets
+Added Class: Name=R4_HI_CURRENT_3_Nets
+Added Class: Name=R4_HI_CURRENT_4_Nets
+Added Class: Name=U1_Nets
+Added Class: Name=U2_Nets
+Added Class: Name=Hi_Current
