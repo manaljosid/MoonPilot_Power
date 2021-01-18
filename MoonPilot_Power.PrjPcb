@@ -74,7 +74,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GNMWVKNR
 
 [Document3]
-DocumentPath=MoonPilor_Power.PcbDoc
+DocumentPath=MoonPilot_Power.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
